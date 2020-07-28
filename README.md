@@ -9,7 +9,7 @@ electrical engineer by formation, programmer by passion, currently searching for
 - 🔭 I’m currently working on my <a href="https://github.com/luizhenriquemaia/time-register" target="_blank"> time register web app </a>, almost finishing it.
 - 🌱 I’m currently learning reactjs, flask, react-native, node.
 - 📫 How to reach me, i currently have only <a href="https://www.linkedin.com/in/luiz-henrique-maia/" target="_blank">Linkedin</a>.
-- ⚡ Fun fact: I'm vegan :cow:
+- ⚡ Fun fact i'm vegan :cow:
 
 
 <!--
