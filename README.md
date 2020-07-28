@@ -3,6 +3,8 @@
 electrical engineer by formation, programmer by passion, currently searching for web developer jobs.
 
 ---
+
+#### More about me
 - :briefcase: I have professional experience mainly in django, reactjs, mysql.
 - 🔭 I’m currently working on my <a href="https://github.com/luizhenriquemaia/time-register" target="_blank"> time register web app </a>, almost finishing it.
 - 🌱 I’m currently learning reactjs, flask, react-native, node.
