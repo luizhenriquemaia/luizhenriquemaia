@@ -7,7 +7,6 @@ electrical engineer by formation, programmer by passion, currently searching for
 #### More about me
 - :briefcase: I have professional experience mainly in django, reactjs, mysql.
 - 🌱 I’m currently learning reactjs, flask, react-native, node.
-- 📫 How to reach me, i currently have only <a href="https://www.linkedin.com/in/luiz-henrique-maia/" target="_blank">Linkedin</a>.
 - ⚡ Fun fact i'm vegan :cow:
 
 ---
