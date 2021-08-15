@@ -1,6 +1,7 @@
-### Hi i'm Luiz Henrique Maia,
+### Hi i'm Luiz Henrique Maia, 
 
-electrical engineer by formation, programmer by passion, currently searching for web developer jobs.
+
+Electrical engineer by formation, programmer by passion.
 
 ---
 
@@ -8,8 +9,10 @@ electrical engineer by formation, programmer by passion, currently searching for
 - :briefcase: I have professional experience mainly in django, reactjs, mysql.
 - 🌱 I’m currently learning reactjs, flask, react-native, node.
 - ⚡ Fun fact i'm vegan :cow:
+- <a href="https://www.linkedin.com/in/luiz-henrique-maia/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 
 ---
+
 <div>
   <a href="https://github.com/luizhenriquemaia">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=luizhenriquemaia&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true"/>
@@ -24,6 +27,7 @@ electrical engineer by formation, programmer by passion, currently searching for
 </div>
   
 ---
-<div> 
-  <a href="https://www.linkedin.com/in/luiz-henrique-maia/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-</div> 
+  
+  <div>
+    <img src="https://media4.giphy.com/media/07joSe4LIlLsomAZhC/giphy.gif?cid=ecf05e47fccg9ilmby0xltux4khj38dmc5ushc6hh3ffez97&rid=giphy.gif" width="140" height="140" />
+  </div>
