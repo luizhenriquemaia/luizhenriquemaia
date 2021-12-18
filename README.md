@@ -29,5 +29,11 @@ Electrical engineer by formation, programmer by passion.
 ---
   
   <div>
+    <a href="https://stackoverflow.com/users/10473030/luiz"><img src="https://stackoverflow.com/users/flair/10473030.png?theme=dark" width="208" height="58" alt="profile for Luiz at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for Luiz at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a>
+  </div>
+  
+  ---
+  
+  <div>
     <img src="https://media4.giphy.com/media/07joSe4LIlLsomAZhC/giphy.gif?cid=ecf05e47fccg9ilmby0xltux4khj38dmc5ushc6hh3ffez97&rid=giphy.gif" width="140" height="140" />
   </div>
