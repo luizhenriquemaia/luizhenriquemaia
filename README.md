@@ -6,9 +6,9 @@ Electrical engineer by formation, programmer by passion.
 ---
 
 #### More about me
-- :briefcase: I have professional experience mainly in django, reactjs, angular, mysql, postgresql.
-- 🌱 I’m currently learning reactjs, flask, react-native, node.
-- ⚡ Fun fact i'm vegan :cow:
+- I have professional experience mainly in django, reactjs, angular, mysql, postgresql.
+- I’m currently learning reactjs, flask, react-native, node.
+- Fun fact i'm vegan :cow:
 - <a href="https://www.linkedin.com/in/luiz-henrique-maia/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 
 ---
