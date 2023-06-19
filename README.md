@@ -7,7 +7,6 @@ Electrical engineer by formation, developer by passion.
 
 #### About me
 - Fullstack python/javascript mid-level developer;
-- Fun fact i'm vegan :cow:
 - More in <a href="https://www.linkedin.com/in/luiz-henrique-maia/" target="_blank">here</a> 
 
 ---
@@ -27,9 +26,12 @@ Electrical engineer by formation, developer by passion.
 </div>
   
 ---
-  
+  #### You can find me in this code platforms
   <div>
     <a href="https://stackoverflow.com/users/10473030/luiz"><img src="https://stackoverflow.com/users/flair/10473030.png?theme=dark" width="208" height="58" alt="profile for Luiz at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for Luiz at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a>
+  </div>
+  <div>
+    <a href="https://www.codewars.com/users/luizhenriquemaia"><img src="https://www.codewars.com/users/luizhenriquemaia/badges/small" alt="profile for Luiz at Code wars" title="profile for Luiz at Code wars"></a>
   </div>
   
   ---
