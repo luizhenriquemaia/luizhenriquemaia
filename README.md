@@ -6,7 +6,7 @@ Electrical engineer by formation, developer by passion.
 ---
 
 #### About me
-- Fullstack python/javascript mid-level developer;
+- Senior back-end developer;
 - More in <a href="https://www.linkedin.com/in/luiz-henrique-maia/" target="_blank">here</a> 
 
 ---
